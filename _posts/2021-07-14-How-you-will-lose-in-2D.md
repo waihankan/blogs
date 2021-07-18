@@ -69,4 +69,4 @@ If you still believing that 2D lottery is a cash cow, you must take a look at ot
 * [Baccarat](https://en.wikipedia.org/wiki/Baccarat_(card_game)) - 1.5%
 * [Roulette](https://en.wikipedia.org/wiki/Roulette) - 5.26%
 
-PS. I am just speculating here, and I'm not fond gambling.. Furthermore, [about 70% of lottery winners end up bunkrupt](https://www.cleveland.com/business/2016/01/why_do_70_percent_of_lottery_w.html). But this makes my point. Don't bet on something with big house edge value. Or, you would end up going flat broke! At the end of the day, it's just a form of **entertainment**.
+PS. I am just speculating here, and I'm not fond of gambling.. Furthermore, [about 70% of lottery winners end up bunkrupt](https://www.cleveland.com/business/2016/01/why_do_70_percent_of_lottery_w.html). But this makes my point. Don't bet on something with big house edge value. Or, you would end up going flat broke! At the end of the day, it's just a form of **entertainment**.
