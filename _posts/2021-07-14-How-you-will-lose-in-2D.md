@@ -30,7 +30,7 @@ Here is an example to demonstrate the maths behind the 2D lottery. Let's say you
 
 Here, you might say "Well, this is just the expected value. How can I know that my bet will exactly turn out to be like this? I could be so *lucky* and the luck turns into a *winning streak*." 
 
-However, according to [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers):
+However, according to [Law Of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers):
 
 > The average of the results obtained from a large number of trials should be close to the expected value and will tend to become closer to the expected value as more trials are performed.
 
