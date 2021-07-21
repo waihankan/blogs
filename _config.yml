@@ -32,6 +32,7 @@ facebook_username: waihankan13
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics: "G-PR8QX43582"
