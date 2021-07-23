@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How You Will Lose Money With 2D"
+title:  "How You Will Go Broke with 2D-Lottery"
 date:   2021-07-18 11:37:07 +0630
 categories: jekyll update
 ---
